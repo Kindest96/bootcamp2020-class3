@@ -5,9 +5,9 @@ function App() {
   return (
     <div>
       <strong>Hello, Asif!</strong>
-      <marquee>
+      <h1>
         React is a UI library created by Facebook. It helps you create interactive web applications made up of components. If you’re familiar with HTML, you can think of components as fancy custom tags. That’s pretty much what they are: reusable bits of content and behavior that can be put on a web page. A component is written as a plain JavaScript function. And this is real JavaScript here, not a template language. React supports a special syntax called JSX, which looks a lot like HTML, but it is turned into real JavaScript code by a compiler.
-      </marquee>
+      </h1>
       <ul>
         <li>{1 + 2}</li>
         <li>{3 + 4}</li>
